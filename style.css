@@ -1,0 +1,52 @@
+#imgLogin{
+border-width: 1000px;
+    border: 10px solid #555
+}
+#top{
+    background-image: url('login.jpg');
+height: 250px;
+padding: 20px;
+}
+#wel{
+    font-size: 40px;
+    color: white;
+
+}
+#h{
+    font-size: 30px;
+    width: 100%;
+color: white;
+}
+.jj{
+    height: 350px;
+    width: 300px;
+    background-color: white;
+    padding: 40px;
+    font-size: 35px;
+    border: 50px; 
+    border-style: double;
+    border-width: 10px;   
+    box-shadow: 10px 10px #888888;
+}
+
+#username{
+border-top: white;
+border-left: white;
+border-right: white;
+margin: 10px;
+
+}
+.hha{
+height: 40px;
+width: 200px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 20px;
+background-color: lightcoral;
+margin-top: 40px;
+box-shadow: 5px 10px #888888;
+}
+
+#username{
+    width: 250px;
+    height: 30px;
+}
